@@ -1,4 +1,4 @@
-# Zepto Apps Books List Website
+# Rayan Books List Website
 
 This project is a web application built with React and RTK Query that allows users to browse, search, filter, and paginate through a list of books. Additionally, users can add books to a wishlist stored locally and switch between light and dark modes for a personalized browsing experience.
 
@@ -24,8 +24,8 @@ This project is a web application built with React and RTK Query that allows use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rayan2228/zeptoApps.git
-   cd zeptoApps
+   git clone https://github.com/rayan2228/rayanbooks.git
+   cd rayanbooks
    ```
 
 2. Install dependencies:
