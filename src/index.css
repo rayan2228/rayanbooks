@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .title {
+        @apply mb-4 font-medium text-gray-900 capitalize text-lg dark:text-white
+    }
+    .details {
+        @apply mb-3 font-normal text-gray-700 dark:text-gray-400
+
+    }
+}
